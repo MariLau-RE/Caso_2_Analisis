@@ -155,11 +155,11 @@ int main(){
     
     Insercion(lista2, largo2);
     }
-    cout<<endl;
-    cout <<"Como se nota de los resultados, el incremento en los ticks totales que tarda cada ciclo"<< endl;
+    
+    cout <<"\nComo se nota de los resultados, el incremento en los ticks totales que tarda cada ciclo"<< endl;
     cout <<"es del tipo cuadratico. Por su parte el incremento en la raiz de cada resultado total"<< endl;
-    cout <<"tiende a 16 (2^4), de forma que el incremento entre la raiz de cada resultado es de tipo lineal."<<endl;
-    cout <<endl;
+    cout <<"tiende a 16 (2^4), de forma que el incremento entre la raiz de cada resultado es de tipo lineal.\n"<<endl;
+   
     return 0;
 
 }
